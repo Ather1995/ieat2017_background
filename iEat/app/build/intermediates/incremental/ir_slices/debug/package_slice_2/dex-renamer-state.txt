@@ -1,0 +1,4 @@
+#Thu Apr 12 21:47:54 CST 2018
+base.0=/Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

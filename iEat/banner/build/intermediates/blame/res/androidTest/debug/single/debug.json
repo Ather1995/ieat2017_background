@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_white_radius.xml.flat",
+        "source": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_banner.xml.flat",
+        "source": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\bundles\\debug\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_black_background.xml.flat",
+        "source": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\bundles\\debug\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator_scale_with_alpha.xml.flat",
+        "source": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\bundles\\debug\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_gray_radius.xml.flat",
+        "source": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\bundles\\debug\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_no_banner.png.flat",
+        "source": "F:\\Users\\fanmiaomiao\\Desktop\\ieat\\iEat\\banner\\build\\intermediates\\bundles\\debug\\res\\drawable\\no_banner.png"
+    }
+]

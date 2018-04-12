@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:design:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e9ffbcd499424ec2310180b814e5c0df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6396069faf7cc31fa4fc5deb904e3241/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e3b39c03dcad08dd9d5c5ec0caa758d1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d3e77859a1e54c21b006c0eea97a64b1/AndroidManifest.xml:2:1-11:12
+MERGED from [:banner] /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/banner/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/f0e9fe9f4487e40a85278a13f27f91b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3e262ae71705d77f05b6762d146535bd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/b62e72fc01605c28f3e79b8d26a95e8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/21ff5ac5666268c927862e929c61d6f3/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f4ebd068aca95f91969e2ba0afdbc24/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8301a1e0db379bd5505bac22809254be/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4eb9f14b48b32b3386437036d9bae335/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/0caf6f5eb62405896d633544f8184a8d/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:1-58:12
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:14:5-56:19
+MERGED from [com.android.support:design:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e9ffbcd499424ec2310180b814e5c0df/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e9ffbcd499424ec2310180b814e5c0df/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6396069faf7cc31fa4fc5deb904e3241/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6396069faf7cc31fa4fc5deb904e3241/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e3b39c03dcad08dd9d5c5ec0caa758d1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e3b39c03dcad08dd9d5c5ec0caa758d1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d3e77859a1e54c21b006c0eea97a64b1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d3e77859a1e54c21b006c0eea97a64b1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/f0e9fe9f4487e40a85278a13f27f91b9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/f0e9fe9f4487e40a85278a13f27f91b9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3e262ae71705d77f05b6762d146535bd/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3e262ae71705d77f05b6762d146535bd/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/21ff5ac5666268c927862e929c61d6f3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/21ff5ac5666268c927862e929c61d6f3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f4ebd068aca95f91969e2ba0afdbc24/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f4ebd068aca95f91969e2ba0afdbc24/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8301a1e0db379bd5505bac22809254be/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8301a1e0db379bd5505bac22809254be/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4eb9f14b48b32b3386437036d9bae335/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4eb9f14b48b32b3386437036d9bae335/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/0caf6f5eb62405896d633544f8184a8d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/0caf6f5eb62405896d633544f8184a8d/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.ieat.LoginActivity
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:20:9-31:20
+	android:label
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:22:13-57
+	android:theme
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:21:13-42
+activity#com.example.ieat.HomeActivity
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:theme
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.example.ieat.RecipeActivity
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:41:9-45:20
+	android:label
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:43:13-57
+	android:theme
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:42:13-43
+activity#com.example.ieat.SettingActivity
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:46:9-50:20
+	android:label
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:48:13-57
+	android:theme
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:47:13-44
+activity#com.example.ieat.RecipeIndexActivity
+ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:51:9-55:20
+	android:label
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:53:13-57
+	android:theme
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml:52:13-48
+uses-sdk
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e9ffbcd499424ec2310180b814e5c0df/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/e9ffbcd499424ec2310180b814e5c0df/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6396069faf7cc31fa4fc5deb904e3241/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6396069faf7cc31fa4fc5deb904e3241/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e3b39c03dcad08dd9d5c5ec0caa758d1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e3b39c03dcad08dd9d5c5ec0caa758d1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d3e77859a1e54c21b006c0eea97a64b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d3e77859a1e54c21b006c0eea97a64b1/AndroidManifest.xml:5:5-7:41
+MERGED from [:banner] /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/banner/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:banner] /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/banner/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/f0e9fe9f4487e40a85278a13f27f91b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/f0e9fe9f4487e40a85278a13f27f91b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3e262ae71705d77f05b6762d146535bd/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/3e262ae71705d77f05b6762d146535bd/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/b62e72fc01605c28f3e79b8d26a95e8f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/b62e72fc01605c28f3e79b8d26a95e8f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/21ff5ac5666268c927862e929c61d6f3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/21ff5ac5666268c927862e929c61d6f3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f4ebd068aca95f91969e2ba0afdbc24/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/3f4ebd068aca95f91969e2ba0afdbc24/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8301a1e0db379bd5505bac22809254be/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/8301a1e0db379bd5505bac22809254be/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4eb9f14b48b32b3386437036d9bae335/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4eb9f14b48b32b3386437036d9bae335/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/0caf6f5eb62405896d633544f8184a8d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/0caf6f5eb62405896d633544f8184a8d/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/hualiping/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6396069faf7cc31fa4fc5deb904e3241/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/AndroidManifest.xml

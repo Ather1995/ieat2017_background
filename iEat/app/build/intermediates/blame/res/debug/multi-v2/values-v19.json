@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/res/values-v19/styles.xml",
+                    "from": {
+                        "startLines": "3,9,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,387,531",
+                        "endLines": "8,11,15",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "381,525,679"
+                    },
+                    "to": {
+                        "startLines": "11,17,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "432,756,897",
+                        "endLines": "16,19,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "751,892,1042"
+                    }
+                },
+                {
+                    "source": "/Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/src/main/res/values-v19/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "10",
+                        "endColumns": "24",
+                        "endOffsets": "440"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "24",
+                        "endOffsets": "427"
+                    }
+                }
+            ]
+        }
+    ]
+}
