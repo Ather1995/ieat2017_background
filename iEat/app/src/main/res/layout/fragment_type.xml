@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/list_item">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:background="#b0a9a0"
+        ></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:background="@drawable/typeback"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="38dp"
+            android:layout_weight="7"
+            android:background="@drawable/searchbk"
+            android:orientation="horizontal">
+            <!--阴影？？-->
+
+            <EditText
+                android:id="@+id/search"
+                android:background="@null"
+                android:cursorVisible="false"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textColorHint="#aaaaaa"
+                android:hint="输入您想要的菜名"
+                android:textSize="13dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1" />
+
+            <ImageButton
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:background="@drawable/search_home" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:text="在挑选菜品之前先设置一下"/>
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:text="你的偏好或忌口吧"
+            />
+        <Button
+            android:id="@+id/press_set"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:text="点击设置"
+            android:textColor="#ffffff"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/type_se_bt_selector"
+            />
+    </LinearLayout>
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="5dp"
+        android:id="@+id/food_recView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+</LinearLayout>
