@@ -1,4 +1,4 @@
-#Thu Apr 12 21:47:54 CST 2018
-base.0=/Users/hualiping/Documents/GitHub/ieat2017_background/iEat/app/build/intermediates/transforms/dexMerger/debug/2
+#Tue Apr 03 17:36:13 GMT+08:00 2018
+base.0=D\:\\Android\\iEat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex
