@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="input_account">请输入账号</string>
+    <string name="input_password">请输入登陆密码</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+    <string name="account_or_password_cannot_be_empty">请输入完整的账号密码信息！！</string>
+    <string name="connecting">连接...</string>
+    <string name="connect_to_sever">连接到服务器，请稍候...</string>
+</resources>
