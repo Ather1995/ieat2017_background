@@ -32,7 +32,7 @@ public class Config {
     /*
      * 连接数据库信息
      * */
-    public static final String URL="jdbc:mysql://localhost:3306/project_db_sql";
+    public static final String URL="jdbc:mysql://localhost:3306/project_db_sql?useSSL=true";
     public static final String USER="root";
     public static final String PSD="0305hua";
     public static final String DRIVER="com.mysql.jdbc.Driver";
