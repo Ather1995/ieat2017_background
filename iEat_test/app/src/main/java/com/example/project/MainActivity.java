@@ -8,6 +8,7 @@ import android.view.View;
 import atys.AtyLogin;
 import atys.AtyRegister;
 import atys.fl_new;
+import atys.updateAction;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -37,6 +38,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent=new Intent(MainActivity.this, fl_new.class);
+                startActivity(intent);
+            }
+        });
+        findViewById(R.id.updateAction).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(MainActivity.this, updateAction.class);
                 startActivity(intent);
             }
         });

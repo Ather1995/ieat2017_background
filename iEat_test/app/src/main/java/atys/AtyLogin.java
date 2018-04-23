@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -52,12 +53,13 @@ public class AtyLogin extends AppCompatActivity{
             @Override
             public void onSuccess(String result) {
                 Toast.makeText(AtyLogin.this,result,Toast.LENGTH_LONG).show();
-
+                Log.e("ssss","succcc");
             }
         }, new NetConnection.FailCallback() {
             @Override
             public void onFail(String result) {
                 Toast.makeText(AtyLogin.this,result,Toast.LENGTH_LONG).show();
+                Log.e("ssss","failllll");
             }
         },Config.REQUEST_TYPE,Config.LOGIN,
                 Config.LOGIN_TYPE,login_type,

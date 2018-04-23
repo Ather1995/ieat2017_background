@@ -1,9 +1,8 @@
 package common;
 
 public class Config {
-//    public static String SERVE_URL="http://115.159.127.223:80/host/servlet/user/ParseJSONServlet";//    public static String URL_Register=SERVE_URL+"";
-//    public static String SERVE_URL="http://172.31.146.111:80/host/servlet/user/ParseJSONServlet";//    public static String URL_Register=SERVE_URL+"";
     public static String SERVE_URL="http://172.31.146.111:8080/servlet/user/ParseJSONServlet";//    public static String URL_Register=SERVE_URL+"";
+//    public static String SERVE_URL="http://192.168.1.101:8080/servlet/user/ParseJSONServlet";//    public static String URL_Register=SERVE_URL+"";
 
     public static final String CHARSET="utf-8";
     public static final String ACCOUNT="account";
@@ -27,4 +26,6 @@ public class Config {
     public static final String FOOD_CLICK="food_click";
     public static final String YES="1";
     public static final String NO="0";
+
+    public static final String UPDATE_ACTION="update_action";
 }

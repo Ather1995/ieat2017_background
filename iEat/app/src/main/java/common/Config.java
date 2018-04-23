@@ -1,7 +1,7 @@
 package common;
 
 public class Config {
-    public static String SERVE_URL="http://172.30.203.238:8090/servlet/user/ParseJSONServlet";
+    public static String SERVE_URL="http://172.31.146.111:8080/servlet/user/ParseJSONServlet";
 //    public static String URL_Register=SERVE_URL+"";
 //    public static String URL_Login=SERVE_URL+"";
 

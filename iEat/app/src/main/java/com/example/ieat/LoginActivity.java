@@ -48,7 +48,6 @@ public class LoginActivity extends BaseActivity implements OnClickListener{
                 ToastUtil.show(this,"login");
 
 
-
                 if (TextUtils.isEmpty(password.getText())&&TextUtils.isEmpty(identity.getText())){
                     Toast.makeText(LoginActivity.this, R.string.account_or_password_cannot_be_empty,Toast.LENGTH_LONG).show();
                 }else{

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="itemCF">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/jar/itemCF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/jar/itemCF.jar!/" />
+    </SOURCES>
+  </library>
+</component>

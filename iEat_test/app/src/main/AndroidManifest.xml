@@ -23,6 +23,7 @@
         <activity android:name="atys.AtyLogin"/>
         <activity android:name="atys.AtyRegister"/>
         <activity android:name="atys.fl_new"/>
+        <activity android:name="atys.updateAction"></activity>
     </application>
 
 </manifest>
