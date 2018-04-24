@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.devahamed:multi-view-adapter-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/multi-view-adapter-1.1.0.aar/cffdc49e08574ad6adcaf2b98ba70d5b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/multi-view-adapter-1.1.0.aar/cffdc49e08574ad6adcaf2b98ba70d5b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.devahamed/multi-view-adapter/1.1.0/30e7bb2b1b2fd2589c35c9f5811f5ca98386cb2/multi-view-adapter-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

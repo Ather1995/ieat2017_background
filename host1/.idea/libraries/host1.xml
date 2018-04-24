@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="host1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/host.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/host.jar!/" />
+    </SOURCES>
+  </library>
+</component>

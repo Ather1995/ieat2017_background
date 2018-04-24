@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:background="#b0a9a0"
+        ></LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="38dp"
+            android:layout_weight="7"
+            android:background="@drawable/searchbk"
+            android:orientation="horizontal">
+            <!--阴影？？-->
+
+            <EditText
+                android:id="@+id/search"
+                android:background="@null"
+                android:cursorVisible="false"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textColorHint="#aaaaaa"
+                android:hint="输入您想要的菜名"
+                android:textSize="13dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1" />
+
+            <ImageButton
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:background="@drawable/search_home" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <Util.MyBanner
+        android:layout_marginTop="5dp"
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        />
+
+        <ImageButton
+            android:id="@+id/left_banner"
+            android:layout_marginTop="5dp"
+            android:layout_width="40dp"
+            android:layout_height= "200dp"
+            android:background="@drawable/left_banner_button"
+            android:layout_gravity="left"/>
+        <ImageButton
+            android:id="@+id/right_banner"
+            android:layout_marginTop="5dp"
+            android:layout_width="40dp"
+            android:layout_height= "200dp"
+    android:background="@drawable/right_banner_button"
+    android:layout_gravity="right"/>
+    </FrameLayout>
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="5dp"
+        android:id="@+id/home_recView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+    </LinearLayout>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="116dp"
+    android:background="@drawable/basket_rec_bg">
+
+    <Util.XCRoundRectImageView
+        android:id="@+id/basket_rec_img"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="17dp"
+        android:layout_width="110dp"
+        android:layout_height="100dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="400dp"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/basket_rec_text"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#78979f"
+                android:textSize="17dp"
+                android:text="Test" />
+
+            <ImageView
+                android:id="@+id/Star1"
+                android:layout_marginLeft="10dp"
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+                android:background="@drawable/star_light" />
+
+            <ImageView
+                android:id="@+id/Star2"
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+                android:background="@drawable/star_light" />
+
+            <ImageView
+                android:id="@+id/Star3"
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+                android:background="@drawable/star_light" />
+
+            <ImageView
+                android:id="@+id/Star4"
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+                android:background="@drawable/star_light" />
+
+            <ImageView
+                android:id="@+id/Star5"
+                android:layout_width="17dp"
+                android:layout_height="17dp"
+                android:background="@drawable/star_dark" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="400dp"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:id="@+id/nutrtionType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="营养分类："
+                android:textColor="#a2a093"
+                android:textSize="12dp" />
+
+            <ImageView
+                android:id="@+id/basket_type1"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/type_grain" />
+
+            <ImageView
+                android:id="@+id/basket_type2"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/type_grain" />
+
+            <ImageView
+                android:id="@+id/basket_type3"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/type_grain" />
+
+            <ImageView
+                android:id="@+id/basket_type4"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/type_grain" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="200dp"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:id="@+id/ingresType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="食材："
+                android:textColor="#a2a093"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:id="@+id/ingres"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#a2a093"
+                android:singleLine="false"
+                android:ellipsize="none"
+                android:maxLines="3"
+                android:inputType="textMultiLine"
+                android:textSize="12dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcfcf4">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"></android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/Page_"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#000000"
+        android:alpha="0.2"
+        android:orientation="horizontal"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Page"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/Home"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:clickable="false"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:background="@drawable/homebt"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:clickable="false"
+                android:id="@+id/tvHome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10dp"
+                android:layout_gravity="center"
+                android:textColor="#ffffff"
+                android:text="主页" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Type"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:clickable="false"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:background="@drawable/typebt"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:clickable="false"
+                android:id="@+id/tvType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10dp"
+                android:layout_gravity="center"
+                android:textColor="#ffffff"
+                android:text="分类" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Basket"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:clickable="false"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:background="@drawable/basketbt"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:clickable="false"
+                android:id="@+id/tvBasket"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10dp"
+                android:layout_gravity="center"
+                android:textColor="#ffffff"
+                android:text="菜篮" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Person"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:clickable="false"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:background="@drawable/personbt"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:clickable="false"
+                android:id="@+id/tvPerson"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10dp"
+                android:layout_gravity="center"
+                android:textColor="#ffffff"
+                android:text="个人" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
